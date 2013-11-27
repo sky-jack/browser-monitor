@@ -1,0 +1,6 @@
+[
+			{"browserName":"chrome", "tags": ["examples"], "name": "wd_parallel_async_1_4"},
+			{"browserName":"firefox", "tags": ["examples"], "name": "wd_parallel_async_2_4"},
+			{"browserName":"chrome", "tags": ["examples"], "name": "wd_parallel_async_3_4", "platform": "LINUX"},
+			{"browserName":"firefox", "tags": ["examples"], "name": "wd_parallel_async_4_4", "platform": "LINUX"}
+]

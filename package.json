@@ -1,0 +1,40 @@
+{
+  "name": "browser-monitor",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Monitor urls for signficant changes using screenshots generated with the Source Labs and Selenium",
+  "homepage": "https://github.com/nature/browser-monitor",
+  "bugs": {
+    "url": "https://github.com/nature/browser-monitor/issues"
+  },
+  "author": "Jack Watkins <j.watkins@nature.com>",
+  "main": "./lib/test",
+  "bin": {
+    "browsermonitor": "lib/browsermonitor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nature/browser-monitor.git"
+  },
+  "dependencies": {
+    "check-types": "1.1.x",
+    "gm": "1.13.x",
+    "commander": "2.0.x",
+    "wd": "*",
+    "wd-parallel-async": "*"
+  },
+  "devDependencies": {
+    "mocha": "1.13.x",
+    "chai": "1.8.x"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "automated",
+    "testing",
+    "screenshots",
+    "diff"
+  ],
+  "license": "BSD"
+}
