@@ -1,0 +1,14 @@
+[
+	{ 
+	  "name": "nature",
+	  "url": "http://www.nature.com"
+	},
+	{
+	  "name": "nclimate",
+	  "url": "http://www.nature.com/nclimate"
+	},
+	{
+	  "name": "nchem",
+	  "url": "http://www.nature.com/nchem"
+	}	
+]
